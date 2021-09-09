@@ -27,9 +27,7 @@ under the License.
 
 # Modules
 
-Modules allow users to extend Flink's built-in objects, such as defining functions that behave like Flink 
-built-in functions. They are pluggable, and while Flink provides a few pre-built modules, users can write 
-their own.
+xxxxxx
 
 For example, users can define their own geo functions and plug them into Flink as built-in functions to be used in 
 Flink SQL and Table APIs. Another example is users can load an out-of-shelf Hive module to use Hive built-in 
